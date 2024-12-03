@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e6c87c2-58b8-477b-8c51-9fe2e6ed6185" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseModel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeNetModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeNetModel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/process_emnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/process_emnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predict_character.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visualize_emnist.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +107,7 @@
       <workItem from="1731580611057" duration="22526000" />
       <workItem from="1731944071767" duration="8976000" />
       <workItem from="1732542630657" duration="40534000" />
-      <workItem from="1733243240638" duration="729000" />
+      <workItem from="1733243240638" duration="1082000" />
     </task>
     <servers />
   </component>
