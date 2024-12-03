@@ -1,1 +1,0 @@
-C:\Users\Mark\Desktop\fresh_clone\Keras_Model\models\lenet_Adam_lr0.001_epochs10.h5
