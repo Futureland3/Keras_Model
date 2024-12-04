@@ -7,9 +7,15 @@ This project implements the LeNet neural network architecture to classify handwr
 
 ## Features
 Data Preprocessing: Normalizes and transforms the EMNIST dataset.
+
 Model Training: Configurable training with different optimizers, learning rates, and epochs.
+
 Fine-Tuning: Adapts a pre-trained MNIST model for EMNIST classification.
+
 Evaluation: Includes performance metrics, confusion matrices, and an automated best model selection.
+
 Interactive GUI: Allows users to draw digits and see predictions in real time.
+
+
 
 For more information check out this repository's Wiki
