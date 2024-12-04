@@ -11,3 +11,5 @@ Model Training: Configurable training with different optimizers, learning rates,
 Fine-Tuning: Adapts a pre-trained MNIST model for EMNIST classification.
 Evaluation: Includes performance metrics, confusion matrices, and an automated best model selection.
 Interactive GUI: Allows users to draw digits and see predictions in real time.
+
+For more information check out this repository's Wiki
